@@ -1,0 +1,8 @@
+# vim recovery buffers
+*.swp
+*.swo
+*.swn
+*~
+
+# vim artifacts
+**.swp
