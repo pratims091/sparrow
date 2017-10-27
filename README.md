@@ -1,4 +1,4 @@
-# Sparrow - My first anonymous bot #
+# Sparrow - My first autonomous bot #
 
 Built in 2014, did not know git then :/ had to put this in DropBox. Built with Arduino <3 <3. It uses ultrasonic sensor as its eyes and avoids obstacles.
 
